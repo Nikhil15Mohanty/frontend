@@ -1,10 +1,23 @@
 h1 {
-  font-size: 22px;
+  font-size: 26px;
 }
 body {
   background-color: #333;
   color: whitesmoke;
 }
 p {
-  font-size: 18px;
+  font-size: 22px;
+}
+a {
+  color: rgb(35, 98, 153);
+}
+a:visited {
+  color: rgb(246, 192, 192);
+}
+a:hover,
+a:active {
+  color: #f44040;
+}
+li {
+  font-size: 22px;
 }
